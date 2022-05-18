@@ -7,3 +7,8 @@ function SearchUser()
 		window.open('https://www.instagram.com/' + value, '_blank');
 	}
 }
+
+function Back()
+{
+	window.open('../index.html', '_self');
+}

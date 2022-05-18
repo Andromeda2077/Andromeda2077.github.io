@@ -5,3 +5,7 @@ body {
 p, h1 {
 	color: white;
 }
+
+.button-back {
+	color: black;
+}

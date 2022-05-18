@@ -14,3 +14,8 @@ function SearchUser()
 		}
 	}
 }
+
+function Back()
+{
+	window.open('../index.html', '_self');
+}

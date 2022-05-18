@@ -6,3 +6,8 @@ function Search()
 		window.open("https://www.youtube.com/results?search_query=" + value, '_blank');
 	}
 }
+
+function Back()
+{
+	window.open('../index.html', '_self');
+}
