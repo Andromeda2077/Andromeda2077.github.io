@@ -1,7 +1,19 @@
+body {
+	background-color: grey;
+}
+
 u, a {
 	text-decoration: none;
 }
 
-.youtube-link {
+.youtube-page {
 	color: red;
+}
+
+.instagram-page {
+	color: purple;
+}
+
+.tiktok-page {
+	color: black;
 }
